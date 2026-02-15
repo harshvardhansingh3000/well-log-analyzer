@@ -41,7 +41,7 @@ A full-stack web application for uploading, visualizing, and analyzing well log 
 ### 1. Clone the Repository
 
 ```bash
-git clone [<repository-url>](https://github.com/harshvardhansingh3000/well-log-analyzer)
+git clone https://github.com/harshvardhansingh3000/well-log-analyzer
 cd well-log-analyzer
 ```
 
